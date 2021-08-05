@@ -1,16 +1,13 @@
-### Hi there 👋
+### <samp>Hi there 👋 I'm Ivan, Welcome to my github!</samp>
 
-<!--
-**Preposterone/preposterone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Java backend developer & 21-school student
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **a fullstack app in Java, using SpringBoot, Postgres and Docker**
+- 🌱 Learning **backend development**, **computer science** and **cyber security**
+- ⚙️ I use daily: `.java`, `Spring`, `.sh`
+- 💬 Ping me about **Java**, **Spring**, **backend development**
+- ⚡️ Hobbies: coding, reading, skiing and swimming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preposterone&hide=swift,roff,php,Makefile,Cmake,python,shell,html,css,Assembly,dockerfile&langs_count=5&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
